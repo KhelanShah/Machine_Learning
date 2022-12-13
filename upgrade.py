@@ -1,6 +1,6 @@
 import os
 
-acc = os.popen("cat /home/accuracy/accuracy.txt")
+acc = os.popen("cat /home/ubuntu/accuracy.txt")
 
 
 acc1 = acc.read()
